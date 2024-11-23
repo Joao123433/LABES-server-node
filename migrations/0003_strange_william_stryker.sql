@@ -1,0 +1,1 @@
+ALTER TABLE "client" ALTER COLUMN "codigo_municipio" SET DATA TYPE text;
